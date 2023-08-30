@@ -27,10 +27,11 @@
 - [x] Step 2
 - [x] Step 3
 - [x] Step 4
-- [ ] Step 5
+- [x] Step 5
 - [ ] Finish
 
-##### still going
+##### Step 5: Merging the pull
+    Last step before the finale`
 ###### this is as small as the headers get  
 
 This is normal text
