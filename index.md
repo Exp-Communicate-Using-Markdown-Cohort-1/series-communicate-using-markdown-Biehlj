@@ -22,7 +22,14 @@
 </body>
 </html>
 ```
-#### even smaller
+#### Step 4: Making a task list
+- [x] Step 1
+- [x] Step 2
+- [x] Step 3
+- [x] Step 4
+- [ ] Step 5
+- [ ] Finish
+
 ##### still going
 ###### this is as small as the headers get  
 
